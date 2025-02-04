@@ -40,3 +40,11 @@ This project is built using:
 ### 🔹 Clone the Repository
 ```bash
 git clone https://github.com/YourUsername/one-and-only-consulting-services.git
+
+🔹 Open the Project
+```bash
+cd one-and-only-consulting-services
+
+🔹 Run the Website
+Open index.html in a web browser.
+Use VS Code Live Server (or any local server) for a better experience.
