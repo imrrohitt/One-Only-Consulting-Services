@@ -46,5 +46,7 @@ cd one-and-only-consulting-services
 ---
 
 🔹 Run the Website
+
 ✔️  Open index.html in a web browser.
+
 ✔️  Use VS Code Live Server (or any local server) for a better experience.
