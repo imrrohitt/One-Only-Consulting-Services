@@ -40,10 +40,8 @@ This project is built using:
 ### 🔹 Clone the Repository
 ```bash
 git clone https://github.com/YourUsername/one-and-only-consulting-services.git
-```bash
-🔹 Open the Project
-```bash
 cd one-and-only-consulting-services
+```
 
 🔹 Run the Website
 Open index.html in a web browser.
