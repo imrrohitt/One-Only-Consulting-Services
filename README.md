@@ -3,7 +3,7 @@
 Welcome to the official repository for **[One & Only Consulting Services](http://oneandonlyconsultingservices.com)**! This is a professional business consulting website designed to provide expert guidance, tailored solutions, and strategic insights for businesses of all sizes. 
 
 ---
-<img alt="Screenshot 2025-02-04 at 9 55 19 AM" src="https://github.com/user-attachments/assets/6a802c67-3a08-40c8-8e7d-119294b90f6f" />
+<img alt="Screenshot 2025-02-04 at 9 55 19 AM" src="https://github.com/user-attachments/assets/ee0e03c4-01f4-4847-812a-45a302b76f69" />
 
 
 <img width="1484" alt="Screenshot 2025-02-04 at 9 55 19 AM" src="https://github.com/user-attachments/assets/e55c06d6-0a08-4c31-9f51-d23e490b9252" />
